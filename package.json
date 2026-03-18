@@ -1,0 +1,11 @@
+{
+  "name": "dataVisualization",
+  "version": "1.0.0",
+  "description": "Project for Gemini API data visualization",
+  "main": "Gemini-preQs.js",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "latest",
+    "ollama": "^0.6.3"
+  }
+}
